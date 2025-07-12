@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Arbaz Sheikh</h1>
-<h3 align="center">🚀 Passionate Full Stack & Salesforce Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shadab Khan</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Turning+Ideas+Into+Reality+with+Code!;MERN+Stack+%7C+Salesforce+%7C+Java+%7C+React+%7C+Python+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Building+Smart+Solutions+with+Code!;MERN+Stack+%7C+Java+%7C+React+%7C+Python+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🛠️ I’m currently working on **MERN Stack & Salesforce Projects**
-- 🌱 Currently learning **JWT Auth, Cloud Deployment & Advanced MongoDB**
-- 💬 Ask me about: **Java, JavaScript, React, Salesforce, APIs, SQL, Python**
-- 🤝 Open to **internships, collaborations**, and **freelance work**
-- 📬 Reach me at: [arbazsheikh97821@gmail.com](mailto:arbazsheikh97821@gmail.com)
-- ⚡ Fun fact: *I turn ☕ coffee into 💻 code and 🐞 bugs into 🚀 features*
+- 🎓 A tech enthusiast with a background in **Full Stack Web Development**
+- 💼 Currently working on **MERN stack applications** and building real-world projects
+- 🌱 Always learning new technologies — exploring **Cloud Deployment, JWT Auth, and Advanced Databases**
+- 💬 I enjoy talking about **Java, React, APIs, Python, and problem-solving**
+- 🤝 Open to **internships, remote work, collaborations**, and **freelance opportunities**
+- 📫 Reach me at: [shadabsheik828@gmail.com](mailto:shadabsheik828@gmail.com)
+- ⚡ Fun fact: *I love turning complex problems into simple, elegant code*
 
 ---
 
@@ -40,7 +41,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 
 #### 🧰 Tools & IDEs
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
@@ -57,38 +57,35 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbaz0001&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz0001&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadab-your-github-username&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadab-your-github-username&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz0001&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadab-your-github-username&theme=dark" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-> 📍 Make sure to pin these on your profile.
-
-- 🧠 [`Dictionary`](https://github.com/Arbaz0001/Dictionary) – React App with API, Theme Switcher & Font Selection  
-- 📚 [`Quize-Task`](https://github.com/Arbaz0001/Quize-Task) – JavaScript quiz with score system  
-- 🆔 [`College-ID`](https://github.com/Arbaz0001/college-ID) – HTML/CSS based ID card template  
-- 🍽️ [`Resturant-Template`](https://github.com/Arbaz0001/resturant-template) – Beautiful responsive template
+- 💰 [`Expense Tracker`](https://github.com/your-repo-link) – A simple yet effective tracker built using HTML, CSS, and JavaScript  
+- 🎮 [`Tic Tac Toe Game`](https://github.com/your-repo-link) – Classic game made with JavaScript logic and UI  
+- 🧑‍💼 [`Employee Management System`](https://github.com/your-repo-link) – CRUD-based system developed in React JS  
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:arbazsheikh97821@gmail.com">
+  <a href="mailto:shadabsheik828@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-url">
+  <a href="https://www.linkedin.com/in/shadab-khan-842ba1271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Let’s build something great together.</p>
+<p align="center">✨ Thanks for visiting my profile! Let's build the future, one line of code at a time.</p>
